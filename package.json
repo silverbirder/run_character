@@ -1,0 +1,22 @@
+{
+  "name": "runCharacter",
+  "version": "1.1.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "masashi",
+  "license": "ISC",
+  "dependencies": {
+    "comma-separated-values": "^3.6.4",
+    "csv": "^1.1.0",
+    "fs": "0.0.2",
+    "jquery": "^3.1.0",
+    "remote": "^0.2.6",
+    "electron": "^1.7.5",
+  },
+  "devDependencies": {},
+  "description": ""
+}
