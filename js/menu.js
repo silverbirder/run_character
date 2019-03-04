@@ -8,7 +8,7 @@ $(function(){
 	// キャラ選択の列数
 	const COL_CHAR = 5;
 	const CNF_CANCEL = 'キャンセルしますか？';
-	const CNF_OK     = 'OKしますか？';
+	const CNF_OK     = '開始しますか？';
 
 	//レンダーが読み込み完了すると、イベントを受ける
 	ipcRenderer.on('csvDataList',function(event,data){
